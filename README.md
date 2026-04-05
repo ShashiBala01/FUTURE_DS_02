@@ -58,7 +58,7 @@ This project focuses on analyzing customer churn behavior in a subscription-base
 * Customers with **higher monthly charges** have higher churn rates
 * **Fiber optic users** exhibit increased churn behavior
 
----
+-![Dashboard](churn_analysis_dashboard.png)
 
 ## 💡 Business Recommendations
 
