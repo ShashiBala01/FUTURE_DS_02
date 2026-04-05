@@ -57,7 +57,7 @@ This project focuses on analyzing customer churn behavior in a subscription-base
 * **New customers (0–3 months)** are most likely to leave early
 * Customers with **higher monthly charges** have higher churn rates
 * **Fiber optic users** exhibit increased churn behavior
-
+## 📸 Dashboard Preview
 -![Dashboard](churn_analysis_dashboard.png)
 
 ## 💡 Business Recommendations
